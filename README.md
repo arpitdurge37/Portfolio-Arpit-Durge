@@ -15,6 +15,10 @@ If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/arpit-durge/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
+<<<<<<< HEAD
 © 2024 Arpit Durge
+=======
+© 2025 Arpit Durge
+>>>>>>> 48818a371866ca1a82cd4b900fa860e76e1f7abe
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
