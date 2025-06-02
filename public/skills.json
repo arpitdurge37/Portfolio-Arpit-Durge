@@ -1,0 +1,81 @@
+ [
+
+     {
+        "name": "React",
+        "icon": "https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"
+      },
+
+       {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/000000/typescript.png"
+      },
+
+     {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+      },
+      {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"
+      },
+      {
+        "name": "Express.js",
+        "icon": "https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000"
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+      },
+      {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+      },
+      {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+      },
+  
+      {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+      },
+
+       {
+        "name": "Webpack",
+        "icon": "https://img.icons8.com/?size=100&id=sOWbK4N3cxGh&format=png&color=000000"
+      },
+     
+      {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+      },
+      {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+      },
+      {
+        "name": "Netlify",
+        "icon": "https://img.icons8.com/?size=100&id=sBo1RJ3rjbje&format=png&color=000000"
+      },
+      
+      {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/?size=100&id=62452&format=png&color=000000"
+      },
+      {
+        "name": "Postman",
+        "icon": "./assets/images/skills/postman-icon.png"
+      },
+      {
+        "name": "IntelliJ IDEA",
+        "icon": "https://img.icons8.com/color/48/000000/intellij-idea.png"
+      },
+      {
+        "name": "VS Code",
+        "icon": "./assets/images/skills/vscode-icon.png"
+      }
+    ]
