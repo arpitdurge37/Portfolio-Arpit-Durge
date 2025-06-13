@@ -23,12 +23,6 @@ If you'd like to connect, feel free to reach out:
 
 ---
 
-## 🧾 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 © 2024 Arpit Durge  
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
