@@ -1,20 +1,36 @@
-## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+# 💼 Arpit Durge's Portfolio Website
 
-<a href="/" target="_blank">**Visit Now** 🚀</a>
+A modern and responsive portfolio website built using **HTML5**, **CSS3**, **JavaScript**, and **jQuery** to showcase my work, skills, and professional background.
 
-## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/arpitdurge37/portfolio/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/arpitdurge37/portfolio/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/arpitdurge37/portfolio/search?l=javascript)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+🚀 [**Visit Live Site**](https://portfolio-arpit-durge-50e71.web.app/)  
 
-<h2>📬 Contact</h2>
+---
 
-If you want to contact me, you can reach me through below handles.
+## 🔧 Tech Stack Used
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/arpit-durge/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/arpitdurge37/portfolio/search?l=html)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/arpitdurge37/portfolio/search?l=css)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/arpitdurge37/portfolio/search?l=javascript)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/arpitdurge37/portfolio/search?l=javascript)
 
-© 2024 Arpit Durge
+---
 
+## 📬 Contact Me
+
+If you'd like to connect, feel free to reach out:
+
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-durge/)
+
+---
+
+## 🧾 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+© 2024 Arpit Durge  
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
+
