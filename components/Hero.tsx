@@ -18,7 +18,7 @@ export default function Hero() {
             ))}
           </div>
           <div className="flex flex-wrap justify-center gap-4 mb-8">
-            <a href="/Arpit-Durge-CV.pdf" download="Arpit-Durge-CV.pdf">
+            <a href="/Arpit_Durge_Resume.pdf" download="Arpit_Durge_Resume.pdf">
               <Button className="bg-blue-600 hover:bg-blue-700">
                 <Download className="mr-2 h-4 w-4" />
                 Download Resume
