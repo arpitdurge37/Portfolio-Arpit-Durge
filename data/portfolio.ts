@@ -109,6 +109,24 @@ export const education: Education[] = [
 ]
 
 export const projects: Project[] = [
+    {
+    title: "Car Price Prediction App",
+    description:
+      "This project predicts the selling price of a used car based on various features such as the car's age, present price, kilometers driven, fuel type, and seller type. It is a web-based application developed using Flask for the backend and deployed on Render. The machine learning models were built using different algorithms such as Linear Regression, Random Forest, and Artificial Neural Networks (ANN), and the best-performing model was selected for prediction.",
+    technologies: ["ReactLinear Regression", "Random Forest", "ANN", "Pandas", "NumPy", "Scikit-learn", "Joblib", "Render", "HTML", "CSS"],
+    github: "https://github.com/arpitdurge37/Car_Price_Prediction_App.git",
+    live: "https://car-price-prediction-project.onrender.com/",
+    image: "/home.png",
+  },
+  {
+    title: "Spam Email Classifier App",
+    description:
+      "This project is a Streamlit web application that predicts whether a given email is Spam or Non-Spam using a machine learning model. The app provides an easy-to-use interface where users can input the text of an email and receive a prediction.",
+    technologies: ["NLP", "Streamlit", "Python", "Scikit-learn", "Pandas", "NumPy", "Render", "HTML", "CSS"],
+    github: "https://github.com/arpitdurge37/Spam_Email_Classifier_App.git",
+    live: "https://email-classifier-model.onrender.com/",
+    image: "/website_image.jpg",
+  },
   {
     title: "Video Library",
     description:
