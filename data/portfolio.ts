@@ -2,24 +2,28 @@ import type { Skill, Education, Project, Experience } from "@/types"
 
 export const skills: Skill[] = [
   {
-    name: "React",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    name: "Python",
+    icon: "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
   },
   {
-    name: "TypeScript",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    name: "Numpy",
+    icon: "https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000",
   },
   {
-    name: "JavaScript",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    name: "Pandas",
+    icon: "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000",
   },
   {
-    name: "Node.js",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    name: "Matplotlib",
+    icon: "https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000",
+  }, 
+  {
+    name: "django",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg",
   },
   {
-    name: "Express.js",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+    name: "My SQL",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg",
   },
   {
     name: "MongoDB",
@@ -34,28 +38,24 @@ export const skills: Skill[] = [
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
   },
   {
+    name: "JavaScript",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+  },
+  {
     name: "Boostrap",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
   },
   {
-    name: "jQuery",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg",
+    name: "Anaconda",
+    icon: "https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000",
   },
   {
-    name: "Material UI",
-    icon: "https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000",
+    name: "Jupyter",
+    icon: "https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000",
   },
   {
-    name: "Webpack",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg",
-  },
-   {
-    name: "Rest APIs",
-    icon: "https://img.icons8.com/?size=100&id=21888&format=png&color=000000",
-  }, 
-   {
-    name: "Cursor",
-    icon: "https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000",
+    name: "Flask",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg",
   }, 
   {
     name: "Vercel",
@@ -159,14 +159,14 @@ export const projects: Project[] = [
 
 export const experience: Experience[] = [
   {
-    title: "Web Developer Intern",
+    title: "Python Developer Intern",
     company: "Code Infosystem Pvt. Ltd",
-    period: "Feb 2024 - July 2024",
+    period: "Feb 2024 - April 2024",
     responsibilities: [
-      "Designed, developed, and deployed responsive websites using React, JavaScript, HTML, CSS and Bootstrap, ensuring cross-browser compatibility and optimal user experience.",
-      "Managed server configurations and implemented seamless back-end integration using Node.js and Express.js.",
-      "Collaborated with stakeholders to deliver user-centric web applications on time.",
-      "Gained exposure to Software Development Life Cycle (SDLC) principles and test execution methodologies.",
+      "Completed a learning-oriented internship, gaining hands-on experience with Python and machine learning concepts.",
+      "Built small Python automation scripts for file handling, data cleaning, and repetitive task automation.",
+      "Applied Pandas and NumPy for dataset analysis and preprocessing.",
+      "Worked under mentor guidance on guided ML projects, learning the end-to-end pipeline from preprocessing to model evaluation.",
     ],
   },
   
@@ -174,9 +174,9 @@ export const experience: Experience[] = [
 
 export const personalInfo = {
   name: "Arpit Durge",
-  title: "Full Stack Web Developer",
+  title: "Python Developer",
   description: [
-    "I'm a passionate and detail-oriented MERN Stack Developer with hands-on experience in developing responsive, dynamic, and scalable web applications. During my 6-month internship as a Web Developer, I worked on real-world projects that strengthened my technical foundation and enhanced my ability to collaborate effectively in fast-paced, team-driven environments.","As a recent graduate entering the tech industry, I bring a fresh outlook, a strong eagerness to learn, and the flexibility to adapt quickly to new technologies and challenges. I take pride in my problem-solving mindset, commitment to clean and efficient code, and dedication to delivering high-quality digital solutions that meet both user needs and business goals."
+    "I'm a passionate and detail-oriented Python Developer with hands-on experience in building efficient, scalable, and reliable applications. During my 3-month internship as a Developer, I worked on real-world projects that strengthened my technical foundation in Python programming and enhanced my ability to collaborate effectively in fast-paced, team-driven environments.","As a recent graduate entering the tech industry, I bring a fresh outlook, a strong eagerness to learn, and the flexibility to adapt quickly to new technologies and challenges. I take pride in my problem-solving mindset, writing clean and maintainable Python code, and delivering high-quality solutions that meet both user needs and business goals."
   ],
   email: "arpitdurge14@gmail.com",
   phone: "+91 8999211070",
