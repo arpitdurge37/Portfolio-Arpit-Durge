@@ -113,7 +113,7 @@ export const projects: Project[] = [
     title: "Car Price Prediction App",
     description:
       "This project predicts the selling price of a used car based on various features such as the car's age, present price, kilometers driven, fuel type, and seller type. It is a web-based application developed using Flask for the backend and deployed on Render. The machine learning models were built using different algorithms such as Linear Regression, Random Forest, and Artificial Neural Networks (ANN), and the best-performing model was selected for prediction.",
-    technologies: ["ReactLinear Regression", "Random Forest", "ANN", "Pandas", "NumPy", "Scikit-learn", "Joblib", "Render", "HTML", "CSS"],
+    technologies: ["Linear Regression", "Random Forest", "ANN", "Pandas", "NumPy", "Scikit-learn", "Joblib", "Render", "HTML", "CSS"],
     github: "https://github.com/arpitdurge37/Car_Price_Prediction_App.git",
     live: "https://car-price-prediction-project.onrender.com/",
     image: "/home.png",
